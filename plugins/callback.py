@@ -53,13 +53,13 @@ async def cb_handler(bot: Client, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
 			[
 				[
-					InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
+					InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/GreyMatter_Owner'),
 					InlineKeyboardButton("🤖Other Bots", url="https://t.me/+IezzVbvzlKxlODY1"),
                     InlineKeyboardButton("⚙️Update Channel", url="https://t.me/Greymatter_bots")
 				],
 				[
-					InlineKeyboardButton("🔗Source Code", url="https://github.com/GreyMatter658/Instagram-Bot"),
-					InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/GreyMatter658/Instagram-Bot")
+					InlineKeyboardButton("🔗Source Code", url="https://github.com/GreyMattersBot/Instagram-Bot"),
+					InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/GreyMattereBot/Instagram-Bot")
 				]
 			]
 			)
