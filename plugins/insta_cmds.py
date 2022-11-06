@@ -40,12 +40,12 @@ insta = Config.L
 buttons=InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
+            InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/GreyMatter_Owner'),
             InlineKeyboardButton("🤖Other Bots", url="https://t.me/+IezzVbvzlKxlODY1")
         ],
         [
-            InlineKeyboardButton("🔗Source Code", url="https://github.com/GreyMatter658/Instagram-Bot"),
-            InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/GreyMatter658/Instagram-Bot")
+            InlineKeyboardButton("🔗Source Code", url="https://github.com/GreyMattersBot/Instagram-Bot"),
+            InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/GreyMattersBot/Instagram-Bot")
         ],
         [
             InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
